@@ -1,3 +1,4 @@
-diabetes<-read.csv("D:\\folders\\DWHDM\\diabetes.csv")
+diabetes<-read.csv("D:\\dwdhm\\diabetes (1).csv")
 A<-c(diabetes$Age)
 Minimum<-min(diabetes$Age)
+
